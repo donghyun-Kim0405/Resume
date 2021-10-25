@@ -48,5 +48,6 @@
 - [Github Repository](https://github.com/donghyun-Kim0405/SmartDashCam)
 
 영상 
+
 [![SmartDashCam](http://img.youtube.com/vi/WMItNZCkCHg/0.jpg)](https://youtu.be/WMItNZCkCHg)
 
