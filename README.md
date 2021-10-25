@@ -47,5 +47,6 @@
   - 서버단 영상 추출기능 구현(끼어들기 차량 인식 및 영상추출, 충돌값 기반 영상 추출)  
 - [Github Repository](https://github.com/donghyun-Kim0405/SmartDashCam)
 
-영상 : [![SmartDashCam](http://img.youtube.com/vi/WMItNZCkCHg/0.jpg)](https://youtu.be/WMItNZCkCHg
+영상 
+[![SmartDashCam](http://img.youtube.com/vi/WMItNZCkCHg/0.jpg)](https://youtu.be/WMItNZCkCHg)
 
