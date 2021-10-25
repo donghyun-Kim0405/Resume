@@ -27,8 +27,8 @@
 - Github
 
 
-### [SmartDashCam](영상 : [![SmartDashCam](http://img.youtube.com/vi/WMItNZCkCHg/0.jpg)](https://youtu.be/WMItNZCkCHg) 
-)
+### [SmartDashCam]
+
 
 영상처리를 이용한 주행보조 기능을 제공하는 안드로이드 블랙박스 앱 입니다.
 
@@ -47,5 +47,5 @@
   - 서버단 영상 추출기능 구현(끼어들기 차량 인식 및 영상추출, 충돌값 기반 영상 추출)  
 - [Github Repository](https://github.com/donghyun-Kim0405/SmartDashCam)
 
-
+영상 : [![SmartDashCam](http://img.youtube.com/vi/WMItNZCkCHg/0.jpg)](https://youtu.be/WMItNZCkCHg
 
