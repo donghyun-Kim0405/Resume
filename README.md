@@ -36,7 +36,7 @@
 - 기간 : 2021.08 - 2021.10
 - 언어 : Kotlin, JavaScrip
 - 관련 기술
-  - Android, Retrofit2, Tesseract OCR, Coroutine, MVVM
+  - Android, Retrofit2, Tesseract OCR, Coroutine, MVVM, Node.js
 
 - 기능
   - 단어장과 단어 추가 기능
