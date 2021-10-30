@@ -32,22 +32,24 @@
 
 > 1인 토이 프로젝트 내용입니다.
 
-- 기간 : 2021.08 - 2021.10
-- 언어 : Kotlin, JavaScrip
+- 기간 : 2021.10 - 2021.11(약 2주)
+- 언어 : Kotlin, JavaScript, python
 - 관련 기술
-  - Android, Retrofit2, Tesseract OCR, Coroutine, MVVM, Node.js
+  - Android, Retrofit2, MVVM, Node.js
 
 - 기능
-  - 단어장과 단어 추가 기능
-  - Tesseract OCR기반 글자 인식 기능
+  - 공공데이터 주차장 정보 조회
+  - 안드로이드 gps위치 기반 주차장 정보 조회
+  - Kakao REST API 위치 정보 기반 주차장 정보 조회
   - ViewModel과 Repositry를 이용한 MVVM패턴
   - Retrofit을 이용한 서버 통신 기능 구현(로그인, 단어장 업로드/다운로드)
+  - Token기반 인증 서비스
  
 - [Github Repository](https://github.com/donghyun-Kim0405/MyWordBook)
 
 - 영상 
 
-[![MyWordBook](http://img.youtube.com/vi/hthT4XSyd_o/0.jpg)](https://youtu.be/hthT4XSyd_o)
+[![ParkingApp](http://img.youtube.com/vi/hthT4XSyd_o/0.jpg)](https://youtu.be/hthT4XSyd_o)
 
 
 ### [MyWordBook]
@@ -57,7 +59,7 @@
 > 1인 토이 프로젝트 내용입니다.
 
 - 기간 : 2021.08 - 2021.10
-- 언어 : Kotlin, JavaScrip
+- 언어 : Kotlin, JavaScript
 - 관련 기술
   - Android, Retrofit2, Tesseract OCR, Coroutine, MVVM, Node.js
 
