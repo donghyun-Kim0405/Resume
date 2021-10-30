@@ -26,7 +26,7 @@
 - Node.js
 - Github
 
-### [MyWordBook]
+### [MyParkingApp]
 
 이미지에서 글자를 추출해 단어장으로 만들어주고 사용자간 단어장 공유가 가능한 단어장 앱입니다.
 
@@ -45,7 +45,7 @@
   - Retrofit을 이용한 서버 통신 기능 구현(로그인, 단어장 업로드/다운로드)
   - Token기반 인증 서비스
  
-- [Github Repository](https://github.com/donghyun-Kim0405/MyWordBook)
+- [Github Repository](https://github.com/donghyun-Kim0405/MyParkingApp)
 
 - 영상 
 
