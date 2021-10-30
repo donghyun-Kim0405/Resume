@@ -4,7 +4,7 @@
 안녕하세요. 안드로이드 신입 개발자가 되기 위해 Kotlin과 Android App 개발에 관심을 가지고 공부하고 있습니다.
 
 <br>
-현재 Kotlin과 Android App 개발에 관심을 가지고 공부하고 있습니다.
+
 
 - [Email](mailto:dhkim0405@kpu.ac.kr)
 - [Github](https://github.com/donghyun-Kim0405)
