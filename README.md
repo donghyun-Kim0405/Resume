@@ -26,6 +26,29 @@
 - Node.js
 - Github
 
+### [MyWordBook]
+
+이미지에서 글자를 추출해 단어장으로 만들어주고 사용자간 단어장 공유가 가능한 단어장 앱입니다.
+
+> 1인 토이 프로젝트 내용입니다.
+
+- 기간 : 2021.08 - 2021.10
+- 언어 : Kotlin, JavaScrip
+- 관련 기술
+  - Android, Retrofit2, Tesseract OCR, Coroutine, MVVM, Node.js
+
+- 기능
+  - 단어장과 단어 추가 기능
+  - Tesseract OCR기반 글자 인식 기능
+  - ViewModel과 Repositry를 이용한 MVVM패턴
+  - Retrofit을 이용한 서버 통신 기능 구현(로그인, 단어장 업로드/다운로드)
+ 
+- [Github Repository](https://github.com/donghyun-Kim0405/MyWordBook)
+
+- 영상 
+
+[![MyWordBook](http://img.youtube.com/vi/hthT4XSyd_o/0.jpg)](https://youtu.be/hthT4XSyd_o)
+
 
 ### [MyWordBook]
 
@@ -49,7 +72,6 @@
 - 영상 
 
 [![MyWordBook](http://img.youtube.com/vi/UD8AHkt6Ygo/0.jpg)](https://youtu.be/UD8AHkt6Ygo)
-
 
 
 ### [SmartDashCam]
