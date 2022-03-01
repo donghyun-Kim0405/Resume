@@ -39,7 +39,7 @@
   - 안드로이드 gps위치 기반 주차장 정보 조회
   - Kakao REST API 위치 정보 기반 주차장 정보 조회
   - ViewModel과 Repositry를 이용한 MVVM패턴
-  - Retrofit을 이용한 서버 통신 기능 구현(로그인, 단어장 업로드/다운로드)
+  - Retrofit을 이용한 서버 통신 기능 구현(로그인, 회원가입, 위치정보 CRUD)
   - Token기반 인증 서비스
  
 - [Github Repository](https://github.com/donghyun-Kim0405/MyParkingApp)
