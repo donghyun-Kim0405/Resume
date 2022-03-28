@@ -10,10 +10,10 @@
 
 ## **Educations**
 
-- 한국산업기술대학 컴퓨터공학과
-  - 기간: 2019.03 ~ 2022.03(졸업예정)
+- 한국공학대학교(구:한국산업기술대학) 컴퓨터공학과 졸업
+  - 기간: 2019.03 ~ 2022.02
 - 관악고등학교 졸업
-  - 기간: 2011.03 ~ 2014.03
+  - 기간: 2011.03 ~ 2014.02
 
 ## **Skills**
 
@@ -22,6 +22,33 @@
 - MVVM, Clean Architecture
 - Node.js
 - Github
+
+### [EasyCarPoolApp]
+
+카풀 기능을 제공하는 플랫폼서비스 앱 입니다.
+
+> 2인 토이 프로젝트 내용입니다.
+
+
+- 언어 : Kotlin, Java, python
+- 관련 기술
+  - Android, Retrofit2, MVVM, Spring Boot, Spring Security
+
+- 기능
+  - 공공데이터 주차장 정보 조회
+  - 안드로이드 gps위치 기반 주차장 정보 조회
+  - Kakao REST API 위치 정보 기반 주차장 정보 조회
+  - ViewModel과 Repositry를 이용한 MVVM패턴
+  - Retrofit을 이용한 서버 통신 기능 구현(로그인, 회원가입, 위치정보 CRUD)
+  - Token기반 인증 서비스
+ 
+- [Github Repository](https://github.com/donghyun-Kim0405/MyParkingApp)
+
+- 영상 
+
+[![ParkingApp](http://img.youtube.com/vi/hthT4XSyd_o/0.jpg)](https://youtu.be/hthT4XSyd_o)
+
+
 
 ### [MyParkingApp]
 
