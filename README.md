@@ -46,7 +46,7 @@
 
 - 영상 
 
-[![ParkingApp](http://img.youtube.com/vi/mEnNV2L7uBc/0.jpg)](https://youtu.be/mEnNV2L7uBc)
+[![ParkingApp](http://img.youtube.com/vi/mEnNV2L7uBc/1.jpg)](https://youtu.be/mEnNV2L7uBc)
 
 
 
