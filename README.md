@@ -44,6 +44,7 @@
   - Kakao MAP API기반 위치 표기
   - ViewModel과 Repositry를 이용한 MVVM패턴
   - Retrofit을 이용한 서버 통신 기능 구현(로그인, 회원가입, 위치정보 CRUD)
+  - Google Firebase기반 문자 인증 서비스 
   - STOMP기반 실시간 채팅 서비스
   - Spring Security기반 인증&인가
   - JWT 기반 인증 서비스
