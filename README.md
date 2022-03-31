@@ -18,8 +18,10 @@
 ## **Skills**
 
 - Android 
-- Java, Kotlin, python
+- Java, Kotlin, python, C, C++
 - MVVM, Clean Architecture
+- Spring Boot
+- MySQL
 - Node.js
 - Github
 
@@ -32,21 +34,25 @@
 
 - 언어 : Kotlin, Java, python
 - 관련 기술
-  - Android, Retrofit2, MVVM, Spring Boot, Spring Security
+  - Android, Retrofit2, MVVM, Spring Boot, Spring Security, STOMP, STOMP Client, MySQL
 
 - 기능
-  - 공공데이터 주차장 정보 조회
-  - 안드로이드 gps위치 기반 주차장 정보 조회
-  - Kakao REST API 위치 정보 기반 주차장 정보 조회
+  - 게시글 작성 및 조회
+  - 안드로이드 gps기반 사용자 위치 조회
+  - Kakao MAP API기반 위치 표기
   - ViewModel과 Repositry를 이용한 MVVM패턴
   - Retrofit을 이용한 서버 통신 기능 구현(로그인, 회원가입, 위치정보 CRUD)
-  - Token기반 인증 서비스
+  - STOMP기반 실시간 채팅 서비스
+  - Spring Security기반 인증&인가
+  - JWT 기반 인증 서비스
  
-- [Github Repository](https://github.com/donghyun-Kim0405/MyParkingApp)
+
+- [Github Repository Android Client](https://github.com/EasyCarPoolService/AndroidClient)
+- [Github Repository Spring Boot Server](https://github.com/EasyCarPoolService/AndroidAPIServer)
 
 - 영상 
 
-[![ParkingApp](http://img.youtube.com/vi/mEnNV2L7uBc/0.jpg)](https://youtu.be/mEnNV2L7uBc)
+[![EasyCarPoolApp](http://img.youtube.com/vi/mEnNV2L7uBc/0.jpg)](https://youtu.be/mEnNV2L7uBc)
 
 
 
