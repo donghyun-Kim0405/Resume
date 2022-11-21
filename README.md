@@ -34,9 +34,6 @@
 
 제주도 위치기반 공유경제 애플케이션
 
-> Flutter 도급 외주 받아 수행한 내용입니다.
-
-
 - 언어 : Dart
 - 관련 기술
   - Flutter, Dart, MVVM, GetX, Firebase Store, Firebase Storage, Firebase Function
@@ -45,9 +42,6 @@
 ### [EasyCarPoolApp]
 
 카풀 기능을 제공하는 플랫폼서비스 앱 입니다.
-
-> Side Project
-
 
 - 언어 : Kotlin, Java, python
 - 관련 기술
@@ -78,8 +72,6 @@
 
 공공데이터 중 주차장 데이터를 기반으로 유용한 정보를 추출하여 서버에 저장하고 사용자의 요청에따라 정보를 제공하는 App입니다.
 
->  Side Project
-
 - 기간 : 2021.10 - 2021.11(약 2주)
 - 언어 : Kotlin, JavaScript, python
 - 관련 기술
@@ -104,8 +96,6 @@
 
 이미지에서 글자를 추출해 단어장으로 만들어주고 사용자간 단어장 공유가 가능한 단어장 앱입니다.
 
->  Side Project
-
 - 기간 : 2021.08 - 2021.10
 - 언어 : Kotlin, JavaScript
 - 관련 기술
@@ -128,7 +118,6 @@
 
 영상처리를 이용한 주행보조 기능을 제공하는 안드로이드 블랙박스 앱 입니다.
 
-> 한국산업기술대 졸업프로젝트 진행 내용입니다.
 
 - 기간 : 2021.01 - 2021.08
 - 언어 : Java, C++, JavaScript
