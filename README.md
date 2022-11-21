@@ -1,7 +1,4 @@
-
-## Resume
-
-안녕하세요. 안드로이드 신입 개발자가 되기 위해 Kotlin과 Android App 개발에 관심을 가지고 공부하고 있습니다.
+## 안녕하세요.
 
 - [Email](mailto:dhkim0405@kpu.ac.kr)
 - [Github](https://github.com/donghyun-Kim0405)
@@ -11,14 +8,15 @@
 ## **Educations**
 
 - 한국공학대학교(구 : 한국산업기술대학) 컴퓨터공학과 졸업
-  - 기간: 2019.02 ~ 2022.02
-- 명지전문대학 경영과 졸업
-  - 기간 : 2014.02 ~ 2018.02
-- 관악고등학교 졸업
-  - 기간: 2011.02 ~ 2014.02
+   
+## **Career**
+
+- Popprika (Android Developer)
+ 
 
 ## **Skills**
 
+- Flutter
 - Android 
 - Java, Kotlin, python, C, C++
 - MVVM, Clean Architecture
@@ -26,6 +24,21 @@
 - MySQL
 - Node.js
 - Github
+
+
+
+
+### [Jeju공유]
+
+제주도 위치기반 공유경제 애플케이션
+
+> Flutter 도급 외주 받아 수행한 내용입니다.
+
+
+- 언어 : Dart
+- 관련 기술
+  - Flutter, Dart, MVVM, GetX, Firebase Store, Firebase Storage, Firebase Function
+
 
 ### [EasyCarPoolApp]
 
