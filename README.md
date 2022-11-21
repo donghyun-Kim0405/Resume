@@ -31,8 +31,7 @@
 
 ### [BeautySome]
 
-![Uploading 스크린샷 2022-11-21 오후 10.15.50.png…]()
-
+<img width="634" alt="스크린샷 2022-11-21 오후 10 16 32" src="https://user-images.githubusercontent.com/66393281/203064899-286d6e67-d635-4ebc-9482-5a19e6f34336.png">
 
 
 
