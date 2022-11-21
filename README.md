@@ -29,6 +29,7 @@
 - Node.js
 - Github
 
+![스크린샷 2022-11-21 오후 10 26 54](https://user-images.githubusercontent.com/66393281/203067127-53d04c92-1db8-49cf-aedd-9179686a81c3.png)
 
 
 ### [BeautySome]
