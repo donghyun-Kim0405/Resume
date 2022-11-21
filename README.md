@@ -11,9 +11,9 @@
    
 ## **Career**
 
-- Popprika (Android Developer)
-
 - The Fourth Wave
+
+- Popprika (Android Developer)
 
 - TripPleasure
  
@@ -40,6 +40,25 @@
 <img width="634" alt="스크린샷 2022-11-21 오후 10 16 37" src="https://user-images.githubusercontent.com/66393281/203065000-c8e15741-27f4-4b68-9f2b-134d1edeaaa9.png">
 
 
+헤어디자이너 & 유저 매칭 플랫폼
+
+- 언어 : Dart
+- 관련 기술
+  - Flutter, Dart, MVVM, GetX, Firebase Store, Firebase Storage, Firebase Function
+
+
+- 기능
+  - 게시글 작성 및 조회
+  - 안드로이드 gps기반 사용자 위치 조회
+  - Kakao MAP API기반 위치 표기
+  - ViewModel과 Repositry를 이용한 MVVM패턴
+  - Retrofit을 이용한 서버 통신 기능 구현(로그인, 회원가입, 위치정보 CRUD)
+  - Google Firebase기반 문자 인증 서비스 
+  - STOMP기반 실시간 채팅 서비스
+  - Spring Security기반 인증&인가
+  - JWT 기반 인증 서비스
+ 
+
 ### [Jeju공유]
 
 ![스크린샷 2022-11-21 오후 10 10 09](https://user-images.githubusercontent.com/66393281/203063820-882a1d47-c639-4e3d-8ef3-2c2f6402967f.png)
@@ -52,6 +71,19 @@ https://play.google.com/store/apps/details?id=com.tp.jejushare
 - 언어 : Dart
 - 관련 기술
   - Flutter, Dart, MVVM, GetX, Firebase Store, Firebase Storage, Firebase Function
+
+
+- 기능
+  - 게시글 작성 및 조회
+  - 안드로이드 gps기반 사용자 위치 조회
+  - Kakao MAP API기반 위치 표기
+  - ViewModel과 Repositry를 이용한 MVVM패턴
+  - Retrofit을 이용한 서버 통신 기능 구현(로그인, 회원가입, 위치정보 CRUD)
+  - Google Firebase기반 문자 인증 서비스 
+  - STOMP기반 실시간 채팅 서비스
+  - Spring Security기반 인증&인가
+  - JWT 기반 인증 서비스
+ 
 
 
 ### [EasyCarPoolApp]
