@@ -12,13 +12,15 @@
 ## **Career**
 
 - Popprika (Android Developer)
+
+- TripPleasure
  
 
 ## **Skills**
 
 - Flutter
 - Android 
-- Java, Kotlin, python, C, C++
+- Java, Kotlin, python, C, C++, Dart
 - MVVM, Clean Architecture
 - Spring Boot
 - MySQL
