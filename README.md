@@ -125,7 +125,6 @@ https://play.google.com/store/apps/details?id=com.tp.jejushare
 
 공공데이터 중 주차장 데이터를 기반으로 유용한 정보를 추출하여 서버에 저장하고 사용자의 요청에따라 정보를 제공하는 App입니다.
 
-- 기간 : 2021.10 - 2021.11(약 2주)
 - 언어 : Kotlin, JavaScript, python
 - 관련 기술
   - Android, Retrofit2, MVVM, Node.js
@@ -149,7 +148,6 @@ https://play.google.com/store/apps/details?id=com.tp.jejushare
 
 이미지에서 글자를 추출해 단어장으로 만들어주고 사용자간 단어장 공유가 가능한 단어장 앱입니다.
 
-- 기간 : 2021.08 - 2021.10
 - 언어 : Kotlin, JavaScript
 - 관련 기술
   - Android, Retrofit2, Tesseract OCR, Coroutine, MVVM, Node.js
@@ -171,8 +169,6 @@ https://play.google.com/store/apps/details?id=com.tp.jejushare
 
 영상처리를 이용한 주행보조 기능을 제공하는 안드로이드 블랙박스 앱 입니다.
 
-
-- 기간 : 2021.01 - 2021.08
 - 언어 : Java, C++, JavaScript
 - 관련 기술
   - Android, Retrofit2, OpenCV, Coroutine
