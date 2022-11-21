@@ -46,17 +46,13 @@
 - 관련 기술
   - Flutter, Dart, MVVM, GetX, Firebase Store, Firebase Storage, Firebase Function
 
-
 - 기능
   - 게시글 작성 및 조회
-  - 안드로이드 gps기반 사용자 위치 조회
-  - Kakao MAP API기반 위치 표기
-  - ViewModel과 Repositry를 이용한 MVVM패턴
-  - Retrofit을 이용한 서버 통신 기능 구현(로그인, 회원가입, 위치정보 CRUD)
-  - Google Firebase기반 문자 인증 서비스 
-  - STOMP기반 실시간 채팅 서비스
-  - Spring Security기반 인증&인가
-  - JWT 기반 인증 서비스
+  - 문자인증 및 소셜로그인(카카오, 네이버, 구글, 애플)
+  - 거리기반 게시글 조회 
+  - 검새 알고리즘
+  - 예약 기능
+  - FCM Notification
  
 
 ### [Jeju공유]
@@ -72,19 +68,16 @@ https://play.google.com/store/apps/details?id=com.tp.jejushare
 - 관련 기술
   - Flutter, Dart, MVVM, GetX, Firebase Store, Firebase Storage, Firebase Function
 
-
 - 기능
   - 게시글 작성 및 조회
-  - 안드로이드 gps기반 사용자 위치 조회
-  - Kakao MAP API기반 위치 표기
-  - ViewModel과 Repositry를 이용한 MVVM패턴
-  - Retrofit을 이용한 서버 통신 기능 구현(로그인, 회원가입, 위치정보 CRUD)
-  - Google Firebase기반 문자 인증 서비스 
-  - STOMP기반 실시간 채팅 서비스
-  - Spring Security기반 인증&인가
-  - JWT 기반 인증 서비스
+  - gps기반 사용자 위치 조회
+  - Google Map API & Google Geocode API
+  - 문자인증 미 소셜 로그이
+  - 거리기반 게시글 조회 
+  - 검새 알고리즘
+  - 예약 기능
+  - FCM Notification
  
-
 
 ### [EasyCarPoolApp]
 
