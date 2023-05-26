@@ -23,28 +23,30 @@
 
 - Flutter
 - Android 
-- Java, Kotlin, python, C, C++, Dart
-- MVVM, Clean Architecture
+- Java, Kotlin, python, C, C++, Dart, TypeScript, JavaScript
+- MVVM, Clean Architecture,
 - Spring Boot
 - MySQL
 - Node.js
 - Github
+- React
 
 
 ### [Doongster]
 
 <img width="634" alt="스크린샷 2022-11-21 오후 10 16 32" src="https://github.com/donghyun-Kim0405/Resume/blob/main/images/doongster.png?raw=true">
 
-
-
-<img width="634" alt="스크린샷 2022-11-21 오후 10 16 37" src="https://user-images.githubusercontent.com/66393281/203065000-c8e15741-27f4-4b68-9f2b-134d1edeaaa9.png">
-
-
 둥스터 - 실시간 반려견 산책 & 우리동네 소셜 플랫폼
 
-- 언어 : Kotlin, JavaScript
+직무
+   - Android App 개발
+   - MySQL DataBase 설계
+   - Node.js 서버 유지보수 및 기능 추가
+
+- 언어 : Kotlin, JavaScript, SQL
 - 관련 기술
-  - Android Native, MVVM, Firebase Cloud Messaging, SendBird, PortOne(구 IamPort)결제 모듈, Retrofit2
+  - Android : Android Native, MVVM, Firebase Cloud Messaging, SendBird, PortOne(구 IamPort)결제 모듈, Retrofit2
+  - Node.JS : 배포 자동화, 신규 기능 추가에 따른 API개발 
 
 - 기능
   - 게시글 작성 및 조회
