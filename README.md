@@ -31,6 +31,28 @@
 - Github
 
 
+### [Doongster]
+
+<img width="634" alt="스크린샷 2022-11-21 오후 10 16 32" src="https://user-images.githubusercontent.com/66393281/203064899-286d6e67-d635-4ebc-9482-5a19e6f34336.png">
+
+
+
+<img width="634" alt="스크린샷 2022-11-21 오후 10 16 37" src="https://user-images.githubusercontent.com/66393281/203065000-c8e15741-27f4-4b68-9f2b-134d1edeaaa9.png">
+
+
+둥스터 - 실시간 반려견 산책 & 우리동네 소셜 플랫폼
+
+- 언어 : Kotlin, JavaScript
+- 관련 기술
+  - Android Native, MVVM, Firebase Cloud Messaging, SendBird, PortOne(구 IamPort)결제 모듈, Retrofit2
+
+- 기능
+  - 게시글 작성 및 조회
+  - SendBird API 연동
+  - PortOne결제 모듈 연동
+  - 예약 기능
+  - GPS기반 경로 저장 
+
 
 
 ### [PopprikaBike - HealthCarePlatform]
@@ -43,6 +65,7 @@ Imbeded HealCare Platform
    - Android App 개발 
    - Wanderlust 행사 출품 앱 개발
    - 차기 앱(Bnrz)기술 개발 
+
 
 
 ### [BeautySome]
@@ -68,6 +91,7 @@ Imbeded HealCare Platform
   - 예약 기능
   - FCM Notification
  
+
 
 ### [Jeju공유]
 
