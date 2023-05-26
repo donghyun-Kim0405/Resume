@@ -32,6 +32,32 @@
 - React
 
 
+
+### [HelloZello]
+
+<img width="634" alt="스크린샷 2022-11-21 오후 10 16 32" src="https://github.com/donghyun-Kim0405/Resume/blob/main/images/doongster.png?raw=true">
+
+HelloZello - 뉴스레터 웹 페이지
+
+직무
+   - Android App 개발
+   - MySQL DataBase 설계
+   - Node.js 서버 유지보수 및 기능 추가
+
+- 언어 : Kotlin, JavaScript, SQL
+- 관련 기술
+  - Android : Android Native, MVVM, Firebase Cloud Messaging, SendBird, PortOne(구 IamPort)결제 모듈, Retrofit2
+  - Node.JS : 배포 자동화, 신규 기능 추가에 따른 API개발 
+
+- 기능
+  - 게시글 작성 및 조회
+  - SendBird API 연동
+  - PortOne결제 모듈 연동
+  - 예약 기능
+  - GPS기반 경로 저장 
+
+
+
 ### [Doongster]
 
 <img width="634" alt="스크린샷 2022-11-21 오후 10 16 32" src="https://github.com/donghyun-Kim0405/Resume/blob/main/images/doongster.png?raw=true">
