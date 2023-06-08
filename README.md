@@ -16,7 +16,7 @@
 
 - Popprika (Android Developer)
 
-- TripPleasure
+- Xeward (Full-Stack Developer)
  
 
 ## **Skills**
@@ -32,6 +32,22 @@
 - React
 
 
+### [HikingApp] (23.05.30 ~ 진행중)
+<img src="https://github.com/donghyun-Kim0405/Resume/blob/main/images/hiking.png?raw=true">
+
+Hike - 소셜 등산 앱
+
+- 언어 : Dart, JavaScript, SQL
+- 관련 기술
+   - Flutter: CleanArchitecture UseCase Pattern, BlocPattern, Firebase Cloud Messaging
+   - Node.js : TypeScript, Swagger, Express, 배포자동화, Docker
+
+- 기능 
+   - 문자 인증 로그인
+   - 인앱 결제
+   - 실시간 채팅
+   - 게시글 작성 및 조회
+
 
 ### [HelloZello]
 
@@ -40,18 +56,14 @@
 HelloZello - 뉴스레터 웹 페이지
 
 - 언어 : JavaScript
+
 - 관련 기술
-  - Android : Android Native, MVVM, Firebase Cloud Messaging, SendBird, PortOne(구 IamPort)결제 모듈, Retrofit2
-  - Node.JS : 배포 자동화, 신규 기능 추가에 따른 API개발 
-
+  - React: presentational and container 디자인 패턴, Firebase Hosting, stibee API
+ 
 - 기능
-  - 게시글 작성 및 조회
-  - SendBird API 연동
-  - PortOne결제 모듈 연동
-  - 예약 기능
-  - GPS기반 경로 저장 
-
-
+   - email수집 및 저장
+   - stibee api 연동 
+   - kakao openlink 연동
 
 ### [Doongster]
 
@@ -65,6 +77,7 @@ HelloZello - 뉴스레터 웹 페이지
    - Node.js 서버 유지보수 및 기능 추가
 
 - 언어 : Kotlin, JavaScript, SQL
+
 - 관련 기술
   - Android : Android Native, MVVM, Firebase Cloud Messaging, SendBird, PortOne(구 IamPort)결제 모듈, Retrofit2
   - Node.JS : 배포 자동화, 신규 기능 추가에 따른 API개발 
